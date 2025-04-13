@@ -11,15 +11,17 @@ This project demonstrates an end-to-end MLOps workflow:
 
 ## 🔗 Repository
 
-GitHub Repo
----
-https://github.com/sudhirsinha-github/iisc-mp-quiz/
+## 📦 GitHub Repository
 
+👉 [GIT_URL](https://github.com/sudhirsinha-github/iisc-mp-quiz/)
+
+---
 
 ## 🌍 Deployed App
 
-- **Swagger UI**: http://13.60.44.17:8001/docs  
-- **Health Check**: http://13.60.44.17:8001/api/v1/health
+- 🔗 **Swagger UI**: [SWAGGER_DOCS](http://13.60.44.17:8001/docs)  
+- ✅ **Health Check**: [REST_API](http://13.60.44.17:8001/api/v1/health)
+
 
 ---
 
